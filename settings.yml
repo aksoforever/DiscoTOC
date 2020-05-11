@@ -8,9 +8,11 @@ minimum_trust_level_to_create_TOC:
     - 4
   description:
     en: "The minimum trust level a user must have in order to see the TOC button in the composer"
-    zh_CN: "可使用TOC 功能的最低用户等级"
+    zh_CN: "设定可使用 TOC 功能的最低用户等级"
 composer_toc_text:
-  default: "This topic will contain a table of contents"
+  default: 
+  en: "This topic will contain a table of contents"
+  zh_CN "此主题将是目录浏览方式"
 table_of_contents_icon:
   default: "align-left"
 anchor_icon:
