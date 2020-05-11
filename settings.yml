@@ -12,7 +12,7 @@ minimum_trust_level_to_create_TOC:
 composer_toc_text:
   default: 
   en: "This topic will contain a table of contents"
-  zh_CN "此主题将是目录浏览方式"
+  zh_CN: "此主题将是目录浏览方式"
 table_of_contents_icon:
   default: "align-left"
 anchor_icon:
