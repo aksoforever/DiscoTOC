@@ -2,4 +2,4 @@
 zh_CN:
   table_of_contents: "目录浏览"
   insert_table_of_contents: "插入目录内容"
-  test-field: "<a href='#'>百度</a>"
+  test_field: "<a href='#'>百度</a>"
