@@ -18,3 +18,4 @@ table_of_contents_icon:
   default: "align-left"
 anchor_icon:
   default: "hashtag"
+test_setting_field: "<a href='#'>seting testing</a>"
